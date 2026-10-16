@@ -1,0 +1,38 @@
+
+# Accessibility Report
+
+## 1. Purpose
+
+This report records accessibility checks performed on my Week 1 portfolio.
+
+## 2. Checks Performed
+
+- [ ] Images have meaningful alternative text.
+- [ ] Headings follow a logical order.
+- [ ] Form fields have associated labels.
+- [ ] Links have meaningful text.
+- [ ] The page can be navigated using the keyboard.
+- [ ] Text is readable and has sufficient contrast.
+- [ ] The page can be used at a mobile screen size.
+
+## 3. Issues Found
+
+Record the accessibility issues you actually discover while testing the website.
+
+| Issue | Page | Fix |
+|---|---|---|
+| To be checked | To be checked | To be completed after testing |
+
+## 4. Improvements Made
+
+Record the changes you make after testing.
+
+## 5. Final Results
+
+**Testing method:** Record the browser tools or accessibility checker used.
+
+**Result:** Complete this section after performing the checks above.
+
+## 6. Reflection
+
+Accessibility helps make websites usable by people with different needs and ways of interacting with technology. I will continue checking accessibility as I improve my portfolio.
